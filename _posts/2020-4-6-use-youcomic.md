@@ -3,10 +3,11 @@ layout: article
 title: 使用YouComic来管理你的漫画
 mathjax: true
 author: allentom
-cover: /assets/images/posts/1/web_pv_1.png
+cover: /assets/images/posts/1/cover.png
 pageview : true
 mermaid: true
 show_subscribe	: true
+lightbox: true
 ---
 
 <style>
@@ -24,7 +25,9 @@ show_subscribe	: true
 </div>
 
 
-随着收藏的内容越来越多，普通的文件夹的传统方式已经不能满足需要了。这是需要一个新的管理系统，搜索了一下，找了一圈也没有找到合适的，于是YouComic的想法诞生了。YouComic 专注的的是对于内容的整理和浏览，最终目的是漫画资源整理井井有条。目前YouComic项目以开源的方式托管在Github上，是Project Polaris的一员。
+随着收藏的内容越来越多，普通的文件夹的传统方式已经不能满足需要了。这是需要一个新的管理系统，搜索了一下，找了一圈也没有找到合适的，于是YouComic的想法诞生了。
+<!--more-->
+YouComic 专注的的是对于内容的整理和浏览，最终目的是漫画资源整理井井有条。目前YouComic项目以开源的方式托管在Github上，是Project Polaris的一员。
 
 
 

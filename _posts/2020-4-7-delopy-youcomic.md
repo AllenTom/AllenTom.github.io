@@ -6,9 +6,23 @@ author: allentom
 pageview : true
 mermaid: true
 show_subscribe	: true
+lightbox: true
+cover: /assets/images/posts/2/cover.png
+header:
+  theme: light
+article_header:
+  type: overlay
+  theme: dark
+  background_image:
+    gradient: 'linear-gradient(0deg, rgba(0, 0, 0 , .8), rgba(0, 0, 0, .8))'
+    src: /assets/images/posts/2/init_page.png
 ---
+YouComic套件的部署,实现多种方式的访问以及管理
+<!--more-->
 
 YouComic最早的开发计划是部署在文件服务器上（即网络附加存储NAS）上，但是随着需求的不断扩张，部署方式日渐灵活。用户可以选择不同的方式来部署YouComic服务，从简单的一体化套件和分布式部署方案都能满足。
+
+
 
 在部署上，每一个服务都提供了完整的安装引导，全部配置都在引导页面完成，不需要用户去修改复杂的配置文件。大部分的设置选项只需要保持默认即可，不需要用户进行麻烦的配置。
 ![](/assets/images/posts/2/init_page.png)
